@@ -1,0 +1,39 @@
+body{
+    background-color: #8a2be2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 96vw;
+    font-size: 1rem;
+    text-align: justify;
+    padding-top: 30px;
+}
+
+.formulario{
+    background: linear-gradient(#ffffff, #dfdfdf);
+    font-size: 20px;
+    
+}
+
+.intro{
+    background-color: #2f3676;
+    color: white;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+    border-bottom-left-radius:70%;
+    border-bottom-right-radius:70%;
+}
+
+h3{
+    font-weight: 100;
+}
+strong{
+    font-weight: 600;
+}
+
+.container-fluid {
+    width: 700px;
+  }
+
+
